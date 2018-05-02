@@ -58,11 +58,11 @@ translator:
   encode_commit_history: true
   max_phrase_length: 4
   disable_user_dict_for_patterns:
-    - "^z.*$"
+    - "^x.*$"
 
 reverse_lookup:
   dictionary: pinyin_simp
-  prefix: "z"
+  prefix: "x"
   suffix: "'"
   tips: 〔拼音〕
   preedit_format:
@@ -79,4 +79,4 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    reverse_lookup: "^z[a-z]*'?$"
+    reverse_lookup: "^x[a-z]*'?$"
