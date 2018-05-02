@@ -10,7 +10,7 @@ schema:
   description: |
     五筆字型86版
     碼表源自 ibus-table
-    敲 z 鍵進入拼音反查
+    敲 x 鍵進入拼音反查
   dependencies:
     - pinyin_simp
 

@@ -28,7 +28,7 @@ columns:
   - stem
 encoder:
   exclude_patterns:
-    - '^z.*$'
+    - '^x.*$'
   rules:
     - length_equal: 2
       formula: "AaAbBaBb"
