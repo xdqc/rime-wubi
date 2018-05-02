@@ -1,4 +1,4 @@
-# 五筆字型 - Dvarak layout
+# 五筆字型 - Dvorak layout
 
 ![wubi-dvorak](https://raw.githubusercontent.com/xdqc/rime-wubi-dvorak/master/Dvorak.png "wubi-dvorak")
 
