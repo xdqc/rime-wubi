@@ -38,10 +38,10 @@ encoder:
       formula: "AaBaCaZa"
 ...
 
-工	a	99454797	aa
-了	m	1477224452	mb
+工  a 99454797  aa
+了	m	1477224452  mb
 #子	m	1477224451
-以	v	418261033	bf
+以	v	418261033 bf
 #又	v	418261032
 在	e	1133790406	ed
 #大	e	1133790405
@@ -12446,6 +12446,7 @@ AA制	aaps	985000
 警示	aquc	15300000
 敬献	aqus	566000
 区块	aqub	1500000
+区块链	auqn	1500000
 其乐无穷	aqul	993000
 欧元	aquq	11700000
 敬老	aquy	6980000
@@ -136816,3 +136817,299 @@ bs	xxej	895
 ㄤ	xxxf	394
 ㄥ	xxxf	393
 ㄦ	xxxf	392
+
+# nz
+操作系统	osx	41400000
+葡萄糖	glucose	4240000
+甘油	glycerin	3080000
+苹果	apple	56600000
+鸦片	opium	2640000
+薄荷	mint	6980000
+藻类	algae	1110000
+草莓	strawberry	18700000
+茄子	eggplant	7800000
+菌丝	mycelia	524000
+世界语	esperanto	846000
+恐龙	dinosaur	12400000
+黄豆	soybean	3730000
+花岗岩	granite	2240000
+黄铜	brass	1700000
+黄瓜	cucumber	6150000
+萤火虫	firefly	2170000
+芝麻	sesame	8960000
+芹菜	celery	4190000
+苯基	phenyl	911000
+苯胺	aniline	1350000
+苯环	benzene	138000
+苯酚	phenol	975000
+燕子	swallow 9640000
+燕麦	oats	1180000
+黄鼠狼	weasel	556000
+荨麻	ramie	229000
+花蕾	buds	2110000
+蒲公英	dandelion	7430000
+荷花	lotus	7550000
+葵花	sunflower	4300000
+芥末	mustard	6420000
+苍蝇	flies	5090000
+花粉	pollen	18700000
+共价键	covalentbond	121000
+花生	peanut	11700000
+菟丝子	dodder	344000
+芦苇	reed	2290000
+蘑菇	mushroom	7620000
+芦荟	aloe	2120000
+芦笋	asparagus	1360000
+芒果	mango	6030000
+蔗糖	sucrose	1670000
+
+# noun
+工程	engineering	208000000
+工程师	engr	34600000
+期刊	journal	54000000
+项目	project	210000000
+基金	fund	133000000
+基金会	foundation	10200000
+基本	basic	445000000
+菜单	menu	37800000
+靴子	boot	4890000
+鞋子	shoe	16500000
+牙齿	teeth	10100000
+牙齿	tooth	10100000
+牙膏	toothpaste	4750000
+牙科	dental	3290000
+牙医	dentist	1470000
+工具箱	toolbox	21100000
+工具栏	toolbar	5730000
+范式	paradigm	944000
+范畴	category	8280000
+草药	herb	6490000
+药草	herbs	804000
+草原	prairie	20000000
+墓地	graveyard	9140000
+草坪	lawn	5930000
+功放	amplifier	6920000
+功率	power	31000000
+英雄	hero	78400000
+黄油	butter	1840000
+黄金	gold	100000000
+艺术	art	124000000
+艺术家	artist	14800000
+芯片	chip	31900000
+巨像	colossus	778000
+巨人	giant	32600000
+世纪	century	97400000
+恐怖主义	terrorism	1790000
+工业区	indzone	9470000
+区块	block	1500000
+区块链	blockchain	1500000
+警察	police	90300000
+医院	hospital	143000000
+医学	medicine	88500000
+医生	doctor	54700000
+医疗	medical	96900000
+药物	medication	32800000
+薪水	salary	11400000
+工作室	studio	74100000
+工作台	bench	2640000
+工作站	workstation	10100000
+工作组	workgroup	6590000
+控制台	console	2640000
+茶壶	teapot	1120000
+花园	garden	59400000
+著作权	copyright	41700000
+花瓶	vase	9000000
+药品	pharmaceuticals	50200000
+药理	pharmacol	3570000
+药店	pharmacy	10700000
+药理学	pharmacology	357000
+药剂师	pharmacist	671000
+药水	potion	3840000
+药丸	pills	1570000
+药片	pill	1570000
+
+# verb
+蒸发	evaporate	9400000
+贡献	contribution	93000000
+营收	revenue	2340000
+工业化	industrializ	8530000
+敬礼	salute	4150000
+匹配	match	21600000
+攻城	siege	4450000
+攻击	attack	36800000
+切面	sections	1090000
+切片	slice	4540000
+切点	cutpoint	144000
+切线	tangential	624000
+切割	cutting	12400000
+切断	cutoff	12700000
+切换	switch	62700000
+恭喜	congrats	24600000
+花费	cost	25900000
+共享	share	79300000
+萃取	xtraction	5350000
+蓄谋	plot	491000
+陈列	xhibition	7240000
+
+# adj
+匿名	anonymous	167000000
+著名	famous	109000000
+共同点	comground	1690000
+恐怖	horror	86600000
+世俗	secular	7460000
+芬芳	fragrance	6390000
+共轭	conjugate	288000
+共鸣	resonance	4990000
+共轴	coaxial	61500
+共同	common	209000000
+蓄意	deliberate	1980000
+
+# function word
+甚至  even	168000000
+其实	infact	142000000
+其他	other	685000000
+某些	some	50500000
+或者	orx	262000000
+或许	orfy	43800000
+
+# phono-translate
+雅马哈	yamaha	1160000
+蒙太奇	montage	603000
+基因	gene	20000000
+巧克力	choco	19000000
+蕾丝	lace	5560000
+基督	christ	5330000
+基督教	chirstianity	7250000
+基督徒	chirstian	4430000
+雅思	ielts	10900000
+艾滋病	aids	9180000
+艾滋	aids	3920000
+蓝牙	bluetooth	17400000
+蓝图	blueprint	4420000
+蓝领	bluecollar	1220000
+蓝调	blues	5110000
+蓝筹股	bluechips	2720000
+幕府	shogunate	2220000
+茄克	jacket	589000
+劳力士	rolex	841000
+英汉	enzh	3430000
+英尺	feet	2800000
+英寸	inch	21500000
+英镑	pound	6050000
+黄牌	ycard	1910000
+世嘉	sega	1420000
+艺妓	geisha	1800000
+欧元	euro	11700000
+共和国	republic	230000000
+共和	republic	5720000
+英特尔	intel	12600000
+芯片组	chipset	8340000
+菩萨	buddha	4940000
+菩提	bodhi	8210000
+共产党员	commy	6850000
+共产党	ccp	21000000
+共产主义	communism	3250000
+东道国	hostcountry	478000
+东道主	hostt	1680000
+巫医	witchdoctor	119000
+巫师	witcher	2190000
+巫术	voodoo	1150000
+花旗	citi	5670000
+
+# person name
+斯蒂芬	stephen	1790000
+萨尔	thrall	3690000
+萨拉	sara	2570000
+萨特	sartre	10100000
+萨姆	sam	1350000
+斯巴达	spata	1900000
+斯基	ski	7840000
+莱布尼茨	leibniz	156000
+斯大林	stalin	2020000
+莎士比亚	shakespeare	2270000
+戈尔	gore	4470000
+斯皮尔伯格	spielberg	415000
+苏珊	susan	1430000
+雅典娜	athena	3320000
+劳拉		1260000
+斯宾诺莎	spinoza	260000
+戈尔巴乔夫	gorbachev	408000
+欧姆	ohm	2940000
+莫扎特	mozart	2090000
+苏格拉底	socrates	1100000
+雅各布	jacob	60400
+菲利浦	philips	974000
+斯科特	scott	1290000
+基辛格	kissinger	619000
+蒙娜丽莎	monalisa	2610000
+薄伽丘	boccaccia	65600
+萧伯纳	shawbernard	256000
+
+
+# place name
+莫斯科	moscow	7430000
+英联邦	comwealth	590000
+莫桑比克	mozambique	914000
+基辅	kiev	706000
+蒙大拿	montana	449000
+东南亚	sea	13400000
+斯坦福	stanford	2330000
+斯堪的纳维亚	scandinavia 232000
+莱索托	lesotho	439000
+雅典	athens	8650000
+东欧	eeurope	4750000
+东非	eafrica	542000
+东亚	easia	7290000
+斯洛伐克	slovakia	5610000
+斯洛文尼亚	slovenia	1850000
+东京	tokyo	19000000
+东方	east	101000000
+基里巴斯	kiribati	393000
+斯里兰卡	srilanka	2590000
+苏联	ussr	8680000
+苏维埃	soviet	814000
+雅加达	jakarta	882000
+苏丹	sudan	3670000
+芝加哥	chicago	6580000
+黄石	yellowstone	6140000
+英国	uk	96600000
+英法	ukfr	1660000
+英美	ukus	9930000
+慕尼黑	munich	3740000
+牙买加	jamaica	1590000
+世界	world	684000000
+蒙古	mongolia	13600000
+欧罗巴	europa	896000
+欧亚	eurasia	2750000
+欧盟	eunion	19800000
+欧洲	europe	68000000
+萨尔瓦多	salvador	1030000
+欧美	euus	34200000
+萨拉热窝	sarajevo	171000
+苏格兰	scotland	3970000
+英格兰	england	9510000
+苏黎世	zurich	749000
+艾奥瓦	iowa	118000
+菲律宾	philippines	9240000
+蒙特利尔	montreal	1400000
+苏门答腊	sumatra	407000
+匹兹堡	pittsburgh	325000
+苏伊士	suez	394000
+芬兰	finland	7190000
+荷兰	holland	16700000
+阿勒泰	altay	1450000
+
+# acronym
+世界卫生组织	who	2110000
+世界贸易组织	wto	2610000
+世贸组织	wto	1680000
+英超	epl	11400000
+世锦赛	wchmp	4960000
+欧佩克	opec	1320000
+预计到达时间	eta	1320000
+
+# Constellation 
+巨蟹座	cancer	3800000
+
+# Game
+死灵法师	necromancer	1000000
