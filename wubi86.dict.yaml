@@ -15393,7 +15393,6 @@ AA制	aaps	985000
 聙	miki	63700
 陠	mikf	19800
 隔墙	miuu	1660000
-卫士	miui	9250000
 孲	miui	65700
 了不起	miud	7470000
 耳鼓	miut	538000
@@ -136821,6 +136820,7 @@ bs	xxej	895
 # nz
 操作系统	osx	41400000
 葡萄糖	glucose	4240000
+葡萄	grape	22500000
 甘油	glycerin	3080000
 苹果	apple	56600000
 鸦片	opium	2640000
@@ -136862,6 +136862,26 @@ bs	xxej	895
 芦笋	asparagus	1360000
 芒果	mango	6030000
 蔗糖	sucrose	1670000
+聚合物	polymer	2550000
+聚脂	polyesters	1680000
+聚酯	polyester	4410000
+聚糖	glycan	1560000
+聚乙烯	polyethylene	4070000
+聚变	fusion	657000
+子宫	uterus	13000000
+阴茎	penis	16500000
+阴蒂	clitoris	1720000
+阴唇	labia	1290000
+阴囊	scrotum	929000
+阴道	vagina	10700000
+耻骨	pubic	855000
+阻尼	damping	1220000
+阻抗	impedance	2640000
+阴极	cathode	1320000
+阳极	anode	1350000
+随想曲	caprice	277000
+子午线	meridian	501000
+
 
 # noun
 工程	engineering	208000000
@@ -136910,6 +136930,7 @@ bs	xxej	895
 医疗	medical	96900000
 药物	medication	32800000
 薪水	salary	11400000
+工厂	factory	38900000
 工作室	studio	74100000
 工作台	bench	2640000
 工作站	workstation	10100000
@@ -136927,6 +136948,59 @@ bs	xxej	895
 药水	potion	3840000
 药丸	pills	1570000
 药片	pill	1570000
+降落伞	parachute	959000
+除草剂	herbicide	1160000
+子网	subnet	2120000
+子键	subkey	690000
+子集	subset	607000
+子弹	bullet	9180000
+子夜	midnight	2440000
+取向	orientation	7960000
+堕胎	abortion	1890000
+障碍物	obstacles	1430000
+随从	retinue	1330000
+阴影	shadow	18700000
+阴谋	conspiracy	7860000
+陵墓	mausoleum	1940000
+陆军	army	5400000
+卫星	satellite	24700000
+耳朵	ears	22500000
+耳塞	earplugs	2390000
+耳科	otology	346000
+聊天室	chatroom	25600000
+陆战队	marine	1080000
+聚光灯	spotlights	830000
+聚光	spotlight	505000
+函数	function	16400000
+工作	jobs	531000000
+数组	array	2760000
+阵列	arrays	9210000
+阵风	gust	1740000
+防火墙	firewall	17700000
+陪审员	jurors	400000
+陷阱	pitfall	18500000
+隐私	privacy	114000000
+承包商	contractor	1550000
+版权所有	arrd	444000000
+陶瓷	ceramics	30500000
+孤儿	orphan	7680000
+耳鼻喉科	entt	2400000
+出租车	taxi	9180000
+卫生间	restrooom	12200000
+联盟	alliance	139000000
+联赛	league	12900000
+限速	limit	1760000
+队列	queue	1990000
+栈	stack	3410000
+堆	heap	62700000
+除数	divisor	165000
+被除数	dividend	165000
+附录	appendix	4570000
+阶段	stage	88900000
+附件	attachment	105000000
+阶级	class	11000000
+驱动	drive	41200000
+驱动程序	driver	11200000
 
 # verb
 蒸发	evaporate	9400000
@@ -136950,6 +137024,39 @@ bs	xxej	895
 萃取	xtraction	5350000
 蓄谋	plot	491000
 陈列	xhibition	7240000
+陈列品	xhibits	163000
+取出	tkout	12400000
+取款	withdraw	3820000
+取回	fetch	8700000
+取消	cancel	113000000
+取名	naming	4670000
+取样	sampling	2280000
+取得	obtain	265000000
+取笑	mkfunof	115000000
+取决	dependon	14600000
+取代	substitute	24900000
+取舍	mkchoice	3540000
+取缔	bann	4950000
+取证	forensics	4940000
+聚积	accumulate	353000
+聚会	gethering	31800000
+聚集	gather	24900000
+聚合	aggregate	20300000
+聚焦	focuson	35600000
+承受	bear	36100000
+承担	undertake	146000000
+承诺	promise	68300000
+承认	recognize	42200000
+承认	admit	42200000
+阻止	deter	24600000
+出现	appear	288000000
+出口	xit	153000000
+出版	publish	299000000
+出售	sell	105000000
+出席	attend	56100000
+聊天	chat	97700000
+降落	landing	4430000
+
 
 # adj
 匿名	anonymous	167000000
@@ -136963,6 +137070,20 @@ bs	xxej	895
 共轴	coaxial	61500
 共同	common	209000000
 蓄意	deliberate	1980000
+取自	tkfrom	6300000
+隔壁	nextdoor	9700000
+堕落	fallen	13500000
+随机	random	30300000
+随机数	randnum	10000000
+陌生	unfamiliar	34200000
+随身	portable	17600000
+随意	atwill	31100000
+耻辱	disgrace	3850000
+隐性	recessive	4000000
+孤独	lonely	35000000
+降序	desc	18100000
+聪明	smart	41600000
+陈词滥调	cliche	170000
 
 # function word
 甚至  even	168000000
@@ -136971,24 +137092,27 @@ bs	xxej	895
 某些	some	50500000
 或者	orx	262000000
 或许	orfy	43800000
+随时	atanytime	60200000
+也许	maybe	87000000
 
 # phono-translate
 雅马哈	yamaha	1160000
 蒙太奇	montage	603000
 基因	gene	20000000
+荷尔蒙	hormones	3390000
 巧克力	choco	19000000
 蕾丝	lace	5560000
 基督	christ	5330000
-基督教	chirstianity	7250000
-基督徒	chirstian	4430000
+基督教	christianity	7250000
+基督徒	christian	4430000
 雅思	ielts	10900000
 艾滋病	aids	9180000
-艾滋	aids	3920000
-蓝牙	bluetooth	17400000
-蓝图	blueprint	4420000
-蓝领	bluecollar	1220000
+艾滋	aidss	3920000
+蓝牙	bltooth	17400000
+蓝图	blprint	4420000
+蓝领	blcollar	1220000
+蓝筹股	blchips	2720000
 蓝调	blues	5110000
-蓝筹股	bluechips	2720000
 幕府	shogunate	2220000
 茄克	jacket	589000
 劳力士	rolex	841000
@@ -136996,17 +137120,17 @@ bs	xxej	895
 英尺	feet	2800000
 英寸	inch	21500000
 英镑	pound	6050000
-黄牌	ycard	1910000
+黄牌	ylcard	1910000
 世嘉	sega	1420000
 艺妓	geisha	1800000
 欧元	euro	11700000
-共和国	republic	230000000
-共和	republic	5720000
+共和国	rpublic	230000000
+共和	rpublic	5720000
 英特尔	intel	12600000
 芯片组	chipset	8340000
 菩萨	buddha	4940000
 菩提	bodhi	8210000
-共产党员	commy	6850000
+共产党员	commi	6850000
 共产党	ccp	21000000
 共产主义	communism	3250000
 东道国	hostcountry	478000
@@ -137015,6 +137139,19 @@ bs	xxej	895
 巫师	witcher	2190000
 巫术	voodoo	1150000
 花旗	citi	5670000
+子爵	viscount	1740000
+耳麦	headset	4020000
+逊尼	sunni	562000
+阿司匹林	aspirin	1750000
+阿米巴	ameba	324000
+阿尔卡特	alcatel	8740000
+阿訇	imam	154000
+阿拉	allah	11500000
+联想	lenovo	46900000
+阿修罗	asura	2100000
+孟什维克	menshevik	32500
+阿弥陀佛	amitobha	3730000
+阿诗玛	ashima	651000
 
 # person name
 斯蒂芬	stephen	1790000
@@ -137044,9 +137181,25 @@ bs	xxej	895
 蒙娜丽莎	monalisa	2610000
 薄伽丘	boccaccia	65600
 萧伯纳	shawbernard	256000
+阿基米德	archimedes	1440000
+耶稣	jesus	3100000
+耶鲁	yale	1870000
+耶律	yelv	563000
+耶诞	chirstmas	257000
+孔夫子	confucius	1740000
+阿卜杜拉	abdullah	3490000
+阿波罗	apollo	2290000
+阿里巴巴	alibaba	76100000
+阿尔伯特	albert	577000
+阿多诺	adorno	95400
+阿拉法特	arafat	1390000
+阿诺	arno	2580000
+孟德斯鸠	montesquieu	577000
+耶和华	jehovah	978000
 
 
 # place name
+葡萄牙	portugal	12900000
 莫斯科	moscow	7430000
 英联邦	comwealth	590000
 莫桑比克	mozambique	914000
@@ -137054,7 +137207,7 @@ bs	xxej	895
 蒙大拿	montana	449000
 东南亚	sea	13400000
 斯坦福	stanford	2330000
-斯堪的纳维亚	scandinavia 232000
+斯堪的纳维亚	scandinavia	232000
 莱索托	lesotho	439000
 雅典	athens	8650000
 东欧	eeurope	4750000
@@ -137098,6 +137251,33 @@ bs	xxej	895
 芬兰	finland	7190000
 荷兰	holland	16700000
 阿勒泰	altay	1450000
+阿联酋	uaee	2660000
+阿克苏	aksu	2420000
+阿克顿	acton	23000
+阿布扎比	abudhabi	404000
+阿肯色	arkansas	353000
+耶路撒冷	jerusalem	1640000
+孟买	mumbai	1340000
+孟加拉国	bangladesh	5620000
+也门	yemen	1140000
+阿富汗	afghanistan	7680000
+阿塞拜疆	azerbaijan	1410000
+阿尔巴尼亚	albania	1720000
+阿尔泰山	altaimount	110000
+阿尔及利亚	algeria	1670000
+阿尔及尔	algiers	211000
+阿尔都塞	althusser	45900
+阿尔卑斯	alps	3580000
+阿拉斯加	alaska	2210000
+阿拉巴马	alabama	332000
+阿拉木图	almaty	338000
+阿拉伯联合酋长国	uaen	528000
+阿拉伯	arab	14000000
+阿曼	oman	5040000
+阿根廷	argentina	13900000
+阿姆斯特丹	amsterdam	1940000
+巴勒斯坦	palestine	11700000
+巴基斯坦	pakistan	11600000
 
 # acronym
 世界卫生组织	who	2110000
@@ -137107,9 +137287,16 @@ bs	xxej	895
 世锦赛	wchmp	4960000
 欧佩克	opec	1320000
 预计到达时间	eta	1320000
+联合国	unn	16100000
+
+# Greeks
+阿尔法	alpha	2770000
+
 
 # Constellation 
 巨蟹座	cancer	3800000
 
 # Game
 死灵法师	necromancer	1000000
+暗黑破坏神	diablo	1000000
+
