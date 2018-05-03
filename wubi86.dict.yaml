@@ -136881,6 +136881,10 @@ bs	xxej	895
 阳极	anode	1350000
 随想曲	caprice	277000
 子午线	meridian	501000
+熊猫	panda	21300000
+双曲线	hyperbola	253000
+鸡尾酒	cocktail	1670000
+骆驼	camel	5430000
 
 
 # noun
@@ -137001,6 +137005,23 @@ bs	xxej	895
 阶级	class	11000000
 驱动	drive	41200000
 驱动程序	driver	11200000
+台式机	desktop	23300000
+预算	budget	26600000
+垒球	softball	1010000
+马戏团	circus	1020000
+骚乱	riot	4570000
+参数	parameter	66900000
+双胞胎	twins	4290000
+勇士	warrior	12400000
+能源	energy	55800000
+能量	energy	29000000
+通货紧缩	deflation	4000000
+通货膨胀	inflation	6000000
+通行证	pass	150000000
+双声道	dualchannel	566000
+鸡蛋	eggs	27800000
+预言家	prophet	484000
+通讯录	contacts	7480000
 
 # verb
 蒸发	evaporate	9400000
@@ -137056,7 +137077,11 @@ bs	xxej	895
 出席	attend	56100000
 聊天	chat	97700000
 降落	landing	4430000
-
+预览	preview	43900000
+预热	preheat	2210000
+预付	prepaid	6300000
+通知	notice	207000000
+验证	verify	208000000
 
 # adj
 匿名	anonymous	167000000
@@ -137084,6 +137109,8 @@ bs	xxej	895
 降序	desc	18100000
 聪明	smart	41600000
 陈词滥调	cliche	170000
+勇敢	brave	24500000
+对角线	diagonal	728000
 
 # function word
 甚至  even	168000000
@@ -137152,6 +137179,29 @@ bs	xxej	895
 孟什维克	menshevik	32500
 阿弥陀佛	amitobha	3730000
 阿诗玛	ashima	651000
+柔道	judo	11900000
+桑巴舞	samba	249000
+桑拿	sauna	4750000
+桑拿浴	sauna	588000
+马克思主义	marxism	4780000
+圣经	bible	15200000
+桑塔纳	santana	7250000
+马列主义	marxleninism	1140000
+台风	typhoon	9130000
+马达	motor	5370000
+马克	mark	6240000
+巴士	bus	15700000
+马赫	mach	3430000
+马球	polo	422000
+马赛克	mosaic	3370000
+马铃薯	potato	3730000
+马拉松	marathon	2880000
+圣诞节	xmas	8060000
+圣诞树	xmastree	1130000
+圣诞夜	xmasnight	1340000
+参议院	senate	1380000
+参议员	senator	2330000
+骇客	hacker	491000
 
 # person name
 斯蒂芬	stephen	1790000
@@ -137196,7 +137246,24 @@ bs	xxej	895
 阿诺	arno	2580000
 孟德斯鸠	montesquieu	577000
 耶和华	jehovah	978000
-
+马斯洛	maslow	497000
+巴斯德	pasteur	268000
+马克思	marx	10400000
+巴甫洛夫	pavlov	232000
+马歇尔	marshall	1040000
+马太	matthew	1150000
+巴顿	barton	2000000
+马尔萨斯	malthus	81200
+巴尔扎克	balzac	603000
+巴尔特	barth	85400
+马尔库塞	marcuse	89200
+巴拉克	barak	1440000
+马拉多纳	maradona	1600000
+马可波罗	macropolo	559000
+圣西门	saintsimon	73800
+巴门尼德	parmenides	48500
+泰勒斯	thales	114000
+达芬奇	davinci	3670000
 
 # place name
 葡萄牙	portugal	12900000
@@ -137278,6 +137345,41 @@ bs	xxej	895
 阿姆斯特丹	amsterdam	1940000
 巴勒斯坦	palestine	11700000
 巴基斯坦	pakistan	11600000
+马其顿	macedonia	1220000
+马萨诸塞	massachusetts	583000
+马耳他	malta	1460000
+马来西亚	malaysia	14100000
+圣马力诺	sanmarino	546000
+巴巴多斯	barbados	605000
+巴布亚新几内亚	papuanewguinea	633000
+马达加斯加	madagascar	1490000
+圣地亚哥	sandiego	805000
+圣卢西亚	saintlucia	341000
+马里亚那	mariana	13200
+马里兰	maryland	896000
+巴哈马	bahamas	861000
+马里	mali	2950000
+马赛	marseille	1310000
+马尼拉	manila	869000
+巴西	brazil	26900000
+巴黎	paris	29800000
+巴库	baku	146000
+巴塞罗那	barcelona	3520000
+巴尔干	balkan	345000
+马尔代夫	maldives	2530000
+巴拉圭	paraguay	3600000
+马拉维	malawi	749000
+巴格达	baghdad	1390000
+马德里	madrid	3660000
+圣彼得堡	stpetersburg	1110000
+马六甲	malacca	643000
+巴拿马	panama	2390000
+圣保罗	sanpaulo	1530000
+巴伐利亚	bavaria	513000
+马绍尔群岛	marshallislands	313000
+巴比伦	babylon	1230000
+百慕大	bermuda	877000
+
 
 # acronym
 世界卫生组织	who	2110000
@@ -137288,6 +137390,8 @@ bs	xxej	895
 欧佩克	opec	1320000
 预计到达时间	eta	1320000
 联合国	unn	16100000
+巴解组织	ploo	30800
+台积电	tsmc	897000
 
 # Greeks
 阿尔法	alpha	2770000
@@ -137295,6 +137399,8 @@ bs	xxej	895
 
 # Constellation 
 巨蟹座	cancer	3800000
+双子座	gemini	14100000
+双鱼座	pisces	13200000
 
 # Game
 死灵法师	necromancer	1000000
