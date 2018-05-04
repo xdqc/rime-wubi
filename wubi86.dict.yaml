@@ -28148,7 +28148,7 @@ AA制	aaps	985000
 彩印	koqi	2830000
 腰包	koqb	4030000
 彩金	koqq	878000
-彩铃	koqj	18200000
+彩铃	koqj	1820000
 采择	kopv	65900
 彩排	kope	3730000
 采撷	kopu	867000
@@ -136819,7 +136819,6 @@ bs	xxej	895
 ㄦ	xxxf	392
 
 # nz
-操作系统	osx	41400000
 葡萄糖	glucose	4240000
 葡萄	grape	22500000
 甘油	glycerin	3080000
@@ -136931,7 +136930,6 @@ bs	xxej	895
 硒鼓	toner	3270000
 三极管	triode	2330000
 古生代	paleozoic	266000
-百科全书	encyclopedia	7860000
 百合花	lily	2380000
 厌食症	anorexia	403000
 砒霜	arsenic	889000
@@ -136944,17 +136942,97 @@ bs	xxej	895
 乳酸	lacticacid	3420000
 乳头	nipple	7700000
 乳房	udder	18300000
+胫骨	tibia	389000
+胯骨	hipbone	187000
+股骨	femur	526000
+豹子	leopard	1530000
+脚趾	toe	2920000
+脚跟	heel	2280000
+脚踝	ankle	1920000
+脚尖	tiptoe	2960000
+肝炎	hepatitis	8630000
+胰腺	pancreas	2520000
+胚胎	embryo	4300000
+肺炎	pneumonia	13200000
+胆囊	gallbladder	4900000
+胆固醇	cholesterol	4140000
+胰岛素	insulin	2450000
+胸椎	thoracic	373000
+脾脏	spleen	648000
+脑垂体	pituitary	389000
+膀胱	bladder	5840000
+脱氧	deoxygenate	826000
+脱水	dehydrate	6250000
+脱臼	dislocation	1470000
+脂肪	lipid	42600000
+肺结核	tbclosis	2330000
+脑膜	meninges	1230000
+脐带	umbilical	1140000
+截肢	amputation	1120000
+坩埚	crucible	348000
 
-# noun
-油	oil	167000000
+
+# computer
+操作系统	osx	41400000
+C语言	clang	7800000
 工程	engineering	208000000
 工程师	engr	34600000
 期刊	journal	54000000
 项目	project	210000000
+菜单	menu	37800000
+芯片	chip	31900000
+工具箱	toolbox	21100000
+工具栏	toolbar	5730000
+范式	paradigm	944000
+范畴	category	8280000
+区块	block	1500000
+区块链	blockchain	1500000
+工作室	studio	74100000
+工作台	bench	2640000
+工作站	wkstation	10100000
+工作组	wkgroup	6590000
+控制台	console	2640000
+子网	subnet	2120000
+子键	subkey	690000
+子集	subset	607000
+聊天室	chatroom	2560000
+函数	function	16400000
+数组	array	2760000
+阵列	arrays	9210000
+除数	divisor	165000
+被除数	dividend	165000
+防火墙	fwall	17700000
+队列	queue	1990000
+栈	stack	3410000
+堆	heap	62700000
+树	tree	334000000
+附件	attchmt	105000000
+驱动	drive	41200000
+驱动程序	driver	11200000
+台式机	desktop	23300000
+参数	parameter	66900000
+套件	kit	8920000
+硬盘	hdd	71500000
+固态硬盘	ssd	7150000
+硬件	hard	82700000
+存贮器	memory	169000
+原型	prototype	8780000
+原型机	prototypes	878000
+磁盘	disk	10600000
+压缩包	zip	5270000
+脚本	script	35600000
+服务器	server	81600000
+脚手架	scaffold	1140000
+用户	user	546000000
+用户名	username	464000000
+截图	snap	11700000
+
+
+# noun
+油	oil	167000000
 基金	fund	133000000
 基金会	foundation	10200000
 基本	basic	445000000
-菜单	menu	37800000
 靴子	boot	4890000
 鞋子	shoe	16500000
 牙齿	teeth	10100000
@@ -136962,10 +137040,6 @@ bs	xxej	895
 牙膏	toothpaste	4750000
 牙科	dental	3290000
 牙医	dentist	1470000
-工具箱	toolbox	21100000
-工具栏	toolbar	5730000
-范式	paradigm	944000
-范畴	category	8280000
 草药	herb	6490000
 药草	herbs	804000
 草原	prairie	20000000
@@ -136978,14 +137052,11 @@ bs	xxej	895
 黄金	gold	100000000
 艺术	art	124000000
 艺术家	artist	14800000
-芯片	chip	31900000
 巨像	colossus	778000
 巨人	giant	32600000
 世纪	century	97400000
 恐怖主义	terrorism	1790000
 工业区	indzone	9470000
-区块	block	1500000
-区块链	blockchain	1500000
 警察	police	90300000
 医院	hospital	143000000
 医学	medicine	88500000
@@ -136994,11 +137065,6 @@ bs	xxej	895
 药物	medication	32800000
 薪水	salary	11400000
 工厂	factory	38900000
-工作室	studio	74100000
-工作台	bench	2640000
-工作站	workstation	10100000
-工作组	workgroup	6590000
-控制台	console	2640000
 茶壶	teapot	1120000
 花园	garden	59400000
 著作权	copyright	41700000
@@ -137013,9 +137079,6 @@ bs	xxej	895
 药片	pill	1570000
 降落伞	parachute	959000
 除草剂	herbicide	1160000
-子网	subnet	2120000
-子键	subkey	690000
-子集	subset	607000
 子弹	bullet	9180000
 子夜	midnight	2440000
 取向	orientation	7960000
@@ -137030,16 +137093,11 @@ bs	xxej	895
 耳朵	ears	22500000
 耳塞	earplugs	2390000
 耳科	otology	346000
-聊天室	chatroom	25600000
 陆战队	marine	1080000
 聚光灯	spotlights	830000
 聚光	spotlight	505000
-函数	function	16400000
 工作	jobs	531000000
-数组	array	2760000
-阵列	arrays	9210000
 阵风	gust	1740000
-防火墙	firewall	17700000
 陪审员	jurors	400000
 陷阱	pitfall	18500000
 隐私	privacy	114000000
@@ -137053,24 +137111,13 @@ bs	xxej	895
 联盟	alliance	139000000
 联赛	league	12900000
 限速	limit	1760000
-队列	queue	1990000
-栈	stack	3410000
-堆	heap	62700000
-树	tree	334000000
-除数	divisor	165000
-被除数	dividend	165000
 附录	appendix	4570000
 阶段	stage	88900000
-附件	attachment	105000000
 阶级	class	11000000
-驱动	drive	41200000
-驱动程序	driver	11200000
-台式机	desktop	23300000
 预算	budget	26600000
 垒球	softball	1010000
 马戏团	circus	1020000
 骚乱	riot	4570000
-参数	parameter	66900000
 双胞胎	twins	4290000
 勇士	warrior	12400000
 能源	energy	55800000
@@ -137085,13 +137132,10 @@ bs	xxej	895
 太阳能	solarenergy	13000000
 太阳镜	sunglasses	2690000
 太阳系	solarsystem	1790000
-有限责任公司	ltdd	21300000
-有限公司	ltd	226000000
 原子弹	atombomb	1580000
 大脑	brain	16500000
 硕士	master	29100000
 百万富翁	millionaire	3130000
-套件	kit	8920000
 套房	suite	18600000
 万有引力	gravity	814000
 原声带	soundtrack	2910000
@@ -137099,8 +137143,6 @@ bs	xxej	895
 古董	antique	38200000
 厨师	chief	8770000
 石头	stone	24900000
-硬盘	hdd	71500000
-硬件	hardware	82700000
 厨房	kitchen	61600000
 存款	deposit	28700000
 彗星	comet	5320000
@@ -137110,7 +137152,6 @@ bs	xxej	895
 悲剧	tragedy	10400000
 厘米	cmeter	22700000
 万里长征	longmarch	328000
-存贮器	memory	169000
 耐力	stamina	4160000
 面包	bread	17600000
 厕所	toilet	15600000
@@ -137127,8 +137168,6 @@ bs	xxej	895
 三角架	tripod	2090000
 克星	buster	4260000
 面包车	vans	4550000
-原型	prototype	8780000
-原型机	prototypes	878000
 原理	principle	58800000
 原点	origin	6980000
 原油	crude	20500000
@@ -137145,16 +137184,33 @@ bs	xxej	895
 磁场	magneticfield	3100000
 磁性	magnetic	7240000
 磁铁	magnet	2250000
-磁盘	disk	10600000
 龙卷风	tornado	2630000
 夏令营	summercamp	2990000
 大使馆	embassy	3500000
 百分比	percentage	14100000
 垄断	monopoly	16800000
-压缩包	zip	5270000
 压缩机	compressor	4380000
 成绩单	transcript	3280000
 太阳	sun	50000000
+肥皂	soap	5120000
+脚注	footnote	2060000
+助理	assistant	67500000
+悬崖	cliff	5380000
+脱口秀	talkshow	1090000
+肿瘤	tumor	24800000
+爱国者	patriot	8490000
+爱国主义	patriotism	3800000
+胸罩	bra	6750000
+乳制品	dairy	3270000
+腰带	waistband	6700000
+彩虹	rainbow	50800000
+彩票	lottery	18900000
+服务员	waiter	11100000
+胶囊	capsule	12700000
+胶水	glue	2610000
+脱衣舞	strip	2320000
+助记词	mnemonic	9400
+
 
 # verb
 蒸发	evaporate	9400000
@@ -137237,6 +137293,7 @@ bs	xxej	895
 帮助	help	462000000
 碰撞	collide	12500000
 奉承	flatter	1390000
+脉冲	pulse	5260000
 
 # adj
 匿名	anonymous	167000000
@@ -137280,6 +137337,9 @@ bs	xxej	895
 克制	restraint	4670000
 原始	primitive	39800000
 朦胧	hazy	6800000
+肤浅	superfacial	2480000
+胜利	victory	39300000
+
 
 # adv
 甚至  even	168000000
@@ -137354,10 +137414,10 @@ bs	xxej	895
 柔道	judo	11900000
 桑巴舞	samba	249000
 桑拿	sauna	4750000
-桑拿浴	sauna	588000
-马克思主义	marxism	4780000
+桑拿浴	saunaa	588000
 圣经	bible	15200000
 桑塔纳	santana	7250000
+马克思主义	marxism	4780000
 马列主义	marxleninism	1140000
 台风	typhoon	9130000
 马达	motor	5370000
@@ -137377,6 +137437,8 @@ bs	xxej	895
 万圣节	halloween	1690000
 奔驰	benz	16500000
 百老汇	broadway	1360000
+百科全书	encyclopedia	7860000
+维基百科	wikipedia	786000
 随想曲	caprice	277000
 奏鸣曲	sonata	1870000
 三重奏	trio	1310000
@@ -137392,6 +137454,7 @@ bs	xxej	895
 大满贯	grandslam	847000
 泰晤士报	thetimes	1320000
 百事	pepsi	5800000
+百度	baidu	259000000
 三明治	sandwich	3410000
 感恩节	thanksgiving	1290000
 耐克	nike	3830000
@@ -137403,7 +137466,6 @@ bs	xxej	895
 布尔乔亚	bourgeos	223000
 布尔什维克	bolshevik	228000
 寿司	sushi	38900000
-维基百科	wikipedia	786000
 古兰经	koran	382000
 灰姑娘	cinderella	5230000
 三位一体	trinity	2520000
@@ -137411,24 +137473,29 @@ bs	xxej	895
 三段论	syllogism	266000
 尤文图斯	juventus	2330000
 爱斯基摩	eskimo	775000
+爵士乐	jazz	944000
+肥皂剧	soapopera	796000
+爱立信	ericsson	16900000
+腾讯	tencent	23900000
+塔斯社	tass	123000
 
 # person name
-斯蒂芬	stephen	1790000
 萨尔	thrall	3690000
 萨拉	sara	2570000
 萨特	sartre	10100000
 萨姆	sam	1350000
+斯蒂芬	stephen	1790000
 斯巴达	spata	1900000
 斯基	ski	7840000
-莱布尼茨	leibniz	156000
 斯大林	stalin	2020000
+斯皮尔伯格	spielberg	415000
+斯宾诺莎	spinoza	260000
+莱布尼茨	leibniz	156000
 莎士比亚	shakespeare	2270000
 戈尔	gore	4470000
-斯皮尔伯格	spielberg	415000
 苏珊	susan	1430000
 雅典娜	athena	3320000
 劳拉		1260000
-斯宾诺莎	spinoza	260000
 戈尔巴乔夫	gorbachev	408000
 欧姆	ohm	2940000
 莫扎特	mozart	2090000
@@ -137496,6 +137563,8 @@ bs	xxej	895
 克拉克	clark	1370000
 克林顿	clinton	3590000
 克伦威尔	cromwell	105000
+爱因斯坦	einstein	3730000
+爱迪生	edison	2740000
 
 # place name
 葡萄牙	portugal	12900000
@@ -137523,9 +137592,9 @@ bs	xxej	895
 雅加达	jakarta	882000
 苏丹	sudan	3670000
 芝加哥	chicago	6580000
-黄石	yellowstone	6140000
+黄石	ylstone	6140000
 英国	uk	96600000
-英法	ukfr	1660000
+英法	enfr	1660000
 英美	ukus	9930000
 慕尼黑	munich	3740000
 牙买加	jamaica	1590000
@@ -137642,6 +137711,12 @@ bs	xxej	895
 大西洋	atlantic	4790000
 泰国	thailand	25300000
 克什米尔	kashmir	790000
+爱达荷	idaho	313000
+爱琴海	aegean	2160000
+爱尔兰	ireland	7060000
+爱丁堡	edinburgh	1080000
+堪萨斯	kansas	651000
+博茨瓦纳	botswana	664000
 
 
 # acronym
@@ -137655,11 +137730,15 @@ bs	xxej	895
 联合国	unn	16100000
 巴解组织	ploo	30800
 台积电	tsmc	897000
+有限责任公司	ltdd	21300000
+有限公司	ltd	226000000
+股份有限公司	coltd	54200000
 非盟	auu	207000
 克格勃	kgbb	289000
 非处方药	otc	1190000
 百分之	par	8310000
 万维网	www	1420000
+爱克斯光	xray	14900
 
 # Greeks
 阿尔法	alpha	2770000
