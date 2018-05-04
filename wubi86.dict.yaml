@@ -1543,7 +1543,7 @@ encoder:
 存	edm	175000000
 破	edv	127000000
 慧	ede	69800000
-在	edu	2700000000
+# 在	edu	2700000000
 𦣻	edu	0
 砋	edi	28600
 戚	edc	8860000
@@ -136906,7 +136906,6 @@ bs	xxej	895
 石灰	lime	4200000
 石油	petroleum	66800000
 硬脂	stearin	663000
-有理数	rationalnum	361000
 石墨	graphite	2520000
 石榴	pomegranate	5260000
 石棉	asbestos	1600000
@@ -136970,6 +136969,21 @@ bs	xxej	895
 脐带	umbilical	1140000
 截肢	amputation	1120000
 坩埚	crucible	348000
+二叠纪	permian	156000
+超声波	ultrasound	6800000
+十二指肠	duodenum	1520000
+真菌	fungi	3860000
+盐酸	hclacid	4310000
+南瓜	pumpkin	11500000
+赤道	equator	5390000
+勃起	erect	7080000
+志留纪	silurian	39000
+支气管	bronchus	5300000
+二氧化碳	cooo	5450000
+二氧化氮	nooo	687000
+无机盐	salt	1160000
+二极管	diode	4180000
+干细胞	stemcell	2500000
 
 
 # computer
@@ -136996,6 +137010,7 @@ C语言	clang	7800000
 子键	subkey	690000
 子集	subset	607000
 聊天室	chatroom	2560000
+有理数	ranum	361000
 函数	function	16400000
 数组	array	2760000
 阵列	arrays	9210000
@@ -137026,6 +137041,35 @@ C语言	clang	7800000
 用户	user	546000000
 用户名	username	464000000
 截图	snap	11700000
+域名	dname	53600000
+载入	loading	20100000
+运营商	isp	14100000
+运维	opss	1230000
+运维开发	devops	1230000
+运行	run	109000000
+运算符	operator	6430000
+支付	pay	147000000
+超大规模集成电路	vlsi	669000
+二进制	binary	18700000
+十进制	decimal	587000
+十六进制	hex	578000
+地址栏	addrbar	1570000
+博客	blog	418000000
+十亿	billion	4080000
+超频	ovclock	6960000
+超载	ovload	3400000
+越狱	jailbreak	19200000
+直径	diameter	26100000
+坡度	slope	1960000
+求和	sum	768000
+元器件	components	7370000
+协议	protocol	110000000
+声明	def	277000000
+无线网	wifi	2180000
+超文本	htt	577000
+超文本传输协议	http	5770000
+超文本标记语言	html	5770000
+最终用户许可协议	eula	580000
 
 
 # noun
@@ -137138,6 +137182,7 @@ C语言	clang	7800000
 百万富翁	millionaire	3130000
 套房	suite	18600000
 万有引力	gravity	814000
+地心引力	gravity	495000
 原声带	soundtrack	2910000
 唇膏	lipstick	4240000
 古董	antique	38200000
@@ -137210,6 +137255,58 @@ C语言	clang	7800000
 胶水	glue	2610000
 脱衣舞	strip	2320000
 助记词	mnemonic	9400
+裁缝	tailor	1820000
+地理	geography	68000000
+地铁	subway	30300000
+地质学	geology	1930000
+求职信	coverletter	2640000
+翅膀	wing	17900000
+幸存者	survivor	3130000
+考古学	archeology	5040000
+城堡	castle	13700000
+城市	city	338000000
+博士后	postdoc	5020000
+运动会	games	12900000
+直觉	intuition	5440000
+越野	offroad	10800000
+真空	vacuum	27000000
+坦克	tank	8940000
+进展	progress	48600000
+霓虹灯	neon	2020000
+朝代	dynasty	3970000
+博览会	expo	13400000
+进化	evolution	7860000
+露珠	dew	2460000
+喜剧	comedy	24900000
+地图	map	341000000
+协会	association	85900000
+专家	expert	212000000
+声音	sound	69800000
+过程	process	221000000
+索引	index	52300000
+元素	element	47100000
+无名指	ringfinger	2160000
+救护车	ambulance	2090000
+教堂	church	8890000
+老师	teacher	114000000
+动物园	zoo	12100000
+救生圈	lifebuoy	2370000
+直升飞机	helicopter	1060000
+博物馆	museum	22700000
+教程	tutorial	72600000
+老鼠	rat	23500000
+都会	metro	111000000
+教父	godfather	3520000
+教育	edu	416000000
+考试	exam	117000000
+雪崩	avalanche	2830000
+规则	rule	97700000
+零售业	retail	5720000
+零售商	retailer	6010000
+增值税	vat	9100000
+规律	law	38600000
+无线电	radio	8210000
+坟墓	tomb	3190000
 
 
 # verb
@@ -137294,6 +137391,16 @@ C语言	clang	7800000
 碰撞	collide	12500000
 奉承	flatter	1390000
 脉冲	pulse	5260000
+运输	transport	69000000
+支持	support	571000000
+需求	requirement	141000000
+起飞	tkoff	6660000
+直播	live	58500000
+越位	offside	1200000
+进口	import	64200000
+喜欢	like	241000000
+过滤	filter	23800000
+
 
 # adj
 匿名	anonymous	167000000
@@ -137339,6 +137446,15 @@ C语言	clang	7800000
 朦胧	hazy	6800000
 肤浅	superfacial	2480000
 胜利	victory	39300000
+趋势	trend	76900000
+超重	ovweight	3820000
+未知	unknown	38000000
+过期	expired	21100000
+无聊	bored	32900000
+无聊	boring	32900000
+无限	unlimited	64500000
+无穷	infinite	22500000
+幸运	lucky	25100000
 
 
 # adv
@@ -137406,6 +137522,7 @@ C语言	clang	7800000
 阿尔卡特	alcatel	8740000
 阿訇	imam	154000
 阿拉	allah	11500000
+真主	allah	1910000
 联想	lenovo	46900000
 阿修罗	asura	2100000
 孟什维克	menshevik	32500
@@ -137443,6 +137560,8 @@ C语言	clang	7800000
 奏鸣曲	sonata	1870000
 三重奏	trio	1310000
 三部曲	trilogy	3720000
+协奏曲	concerto	3320000
+进行曲	marchm	2860000
 硅谷	siliconvalley	6170000
 泰坦尼克号	titanic	1480000
 达斡尔族	daur	317000
@@ -137478,6 +137597,32 @@ C语言	clang	7800000
 爱立信	ericsson	16900000
 腾讯	tencent	23900000
 塔斯社	tass	123000
+俄塔社	tass	123000
+戴尔	dell	20100000
+救世主	savior	5040000
+地狱	hell	17000000
+动漫	animation	199000000
+封建主义	feudalism	1100000
+二元论	dualism	129000
+二律背反	antinomy	342000
+吉普	jeep	3640000
+吉他	guitar	13200000
+雷达	radar	8850000
+光雷达	ladar	885000
+十四行诗	sonnets	218000
+吉尼斯纪录	guinness	2070000
+十字架	cross	6780000
+索尼	sony	34600000
+十字军	crusader	1610000
+壳牌	shell	1510000
+雪铁龙	citroen	4730000
+嘉年华	carnival	7960000
+无产阶级	proletariat	1770000
+吉普赛	gypsy	639000
+培根	bacon	1680000
+雪茄	cigars	3320000
+雪佛兰	chevrolet	3180000
+
 
 # person name
 萨尔	thrall	3690000
@@ -137565,6 +137710,20 @@ C语言	clang	7800000
 克伦威尔	cromwell	105000
 爱因斯坦	einstein	3730000
 爱迪生	edison	2740000
+戴维	dave	4520000
+霍布斯	hobbs	434000
+吉姆	jim	1970000
+坎贝尔	campbell	1220000
+埃米尔	emir	318000
+戴安娜	diana	977000
+雪莱	shelley	393000
+霍金	hawking	999000
+戴维斯	davis	2990000
+埃弗顿	everton	993000
+索绪尔	saussure	81100
+勃郎宁	browning	86800
+戴高乐	degaulle	486000
+
 
 # place name
 葡萄牙	portugal	12900000
@@ -137717,6 +137876,30 @@ C语言	clang	7800000
 爱丁堡	edinburgh	1080000
 堪萨斯	kansas	651000
 博茨瓦纳	botswana	664000
+南斯拉夫	yugoslavia	1780000
+土耳其	turkey	57300000
+埃及	egypt	14200000
+喜马拉雅山	himalayas	707000
+索马里	somalia	2750000
+南达科他	sdakota	91700
+塔吉克斯坦	tajikstan	2890000
+堪培拉	canberra	686000
+圭亚那	guyana	572000
+越南	vietnam	26000000
+南卡罗来纳	scarolina	126000
+韩国	korea	127000000
+朝鲜	korean	18800000
+南亚	sasia	3220000
+南极洲	antarctic	5200000
+南美洲	samerica	6140000
+埃塞俄比亚	ethiopia	1610000
+吉尔吉斯斯坦	kyrgyzstan	1360000
+博尔塔拉	bortala	684000
+博尔顿	bolton	742000
+赫尔辛基	helsinki	752000
+老挝	laos	2240000
+都灵	turin	1260000
+土库曼斯坦	turkmenistan	628000
 
 
 # acronym
@@ -137739,10 +137922,18 @@ C语言	clang	7800000
 百分之	par	8310000
 万维网	www	1420000
 爱克斯光	xray	14900
+博士	phd	62600000
+第二次世界大战	wwii	21200000
+直流电	dcc	12100000
+不明飞行物	ufo	1210000
+联合国教科文组织	unesco	1930000
+
+# money
+英镑	gbp	6050000
+韩元	krw	1640000
 
 # Greeks
 阿尔法	alpha	2770000
-
 
 # Constellation 
 巨蟹座	cancer	3800000
