@@ -39839,7 +39839,7 @@ AA制	aaps	985000
 遭遇	ishs	53300000
 𧟾	ishs	0
 两颗	isho	6370000
-瑞星	ishy	10900000
+瑞星	ishy	109000
 𤨾	ishz	0
 㺾	isti	4350
 𤧗	isti	0
@@ -136829,7 +136829,6 @@ bs	xxej	895
 草莓	strawberry	18700000
 茄子	eggplant	7800000
 菌丝	mycelia	524000
-世界语	esperanto	846000
 恐龙	dinosaur	12400000
 黄豆	soybean	3730000
 花岗岩	granite	2240000
@@ -136868,6 +136867,7 @@ bs	xxej	895
 聚糖	glycan	1560000
 聚乙烯	polyethylene	4070000
 聚变	fusion	657000
+裂变	fission	969000
 子宫	uterus	13000000
 阴茎	penis	16500000
 阴蒂	clitoris	1720000
@@ -136926,7 +136926,6 @@ bs	xxej	895
 卷心菜	cabbage	2030000
 牵牛花	epaj	1200000
 大气压	atm	478000
-硒鼓	toner	3270000
 三极管	triode	2330000
 古生代	paleozoic	266000
 百合花	lily	2380000
@@ -136979,11 +136978,35 @@ bs	xxej	895
 勃起	erect	7080000
 志留纪	silurian	39000
 支气管	bronchus	5300000
+一氧化碳	cooo	2220000
 二氧化碳	cooo	5450000
+一氧化碳	nooo	222000
 二氧化氮	nooo	687000
 无机盐	salt	1160000
 二极管	diode	4180000
 干细胞	stemcell	2500000
+麦芽糖	maltose	1150000
+玛瑙	agate	2670000
+天顶	zenith	548000
+天鹅	swan	8270000
+青春痘	acne	4100000
+天麻	gastrodia	1340000
+静脉	vein	7260000
+球菌	cocci	2850000
+青霉素	penicillin	1620000
+琥珀	amber	8540000
+青光眼	glaucoma	1660000
+豌豆	pea	3020000
+丙烷	propane	1180000
+丙烯	propylene	6450000
+刺猬	hedgehog	2020000
+两栖动物	amphibian	1770000
+更年期	menopause	10800000
+环氧树脂	epoxyresin	1890000
+玫瑰	rose	55100000
+琼脂	agar	567000
+玉米	corn	23600000
+紫荆花	bauhinia	601000
 
 
 # computer
@@ -136995,6 +137018,7 @@ C语言	clang	7800000
 项目	project	210000000
 菜单	menu	37800000
 芯片	chip	31900000
+芯片组	chipset	8340000
 工具箱	toolbox	21100000
 工具栏	toolbar	5730000
 范式	paradigm	944000
@@ -137027,6 +137051,7 @@ C语言	clang	7800000
 台式机	desktop	23300000
 参数	parameter	66900000
 套件	kit	8920000
+硒鼓	toner	3270000
 硬盘	hdd	71500000
 固态硬盘	ssd	7150000
 硬件	hard	82700000
@@ -137069,7 +137094,22 @@ C语言	clang	7800000
 超文本	htt	577000
 超文本传输协议	http	5770000
 超文本标记语言	html	5770000
-最终用户许可协议	eula	580000
+开发	dev	273000000
+互联网	internet	102000000
+正切	tangent	180000
+正则表达式	regex	1490000
+更新	update	799000000
+整数	int	5540000
+带宽	bandwidth	16000000
+平面	plane	41300000
+平均数	avg	252000000
+平板电脑	pad	21500000
+平板电脑	tablet	21500000
+平行	parallel	15100000
+平方	square	70500000
+素数	prime	1900000
+平方米	sqmeter	53100000
+平方根	sqrt	425000
 
 
 # noun
@@ -137091,6 +137131,8 @@ C语言	clang	7800000
 草坪	lawn	5930000
 功放	amplifier	6920000
 功率	power	31000000
+东道国	hostcountry	478000
+东道主	hostt	1680000
 英雄	hero	78400000
 黄油	butter	1840000
 黄金	gold	100000000
@@ -137146,7 +137188,6 @@ C语言	clang	7800000
 陷阱	pitfall	18500000
 隐私	privacy	114000000
 承包商	contractor	1550000
-版权所有	arrd	444000000
 陶瓷	ceramics	30500000
 孤儿	orphan	7680000
 耳鼻喉科	entt	2400000
@@ -137307,6 +137348,42 @@ C语言	clang	7800000
 规律	law	38600000
 无线电	radio	8210000
 坟墓	tomb	3190000
+天花板	ceiling	4370000
+斑马线	xwalk	640000
+青春期	adolescence	7600000
+天赋	talent	7310000
+天文	astronomy	19400000
+不动产	realestates	6290000
+王后	queen	1720000
+政治	politics	163000000
+政府	gov	267000000
+青少年	teens	34600000
+下水道	sewer	6100000
+理想	ideal	105000000
+理论	theory	90800000
+事故	accident	92600000
+噩梦	ntmare	4920000
+事务	affair	78300000
+速度	speed	155000000
+副词	adv	830000
+动词	verb	3220000
+形容词	adj	2560000
+五边形	pentagonal	86800
+现象	phenomenon	81900000
+现金	cash	60500000
+责任	liability	307000000
+理发师	barber	1770000
+理发店	barbers	1720000
+开发商	developers	26500000
+天然气	ngas	14300000
+亚热带	subtropical	2230000
+平原	plain	11300000
+副产品	byproduct	7830000
+平局	draw	1360000
+恶作剧	prank	4360000
+亚健康	subhealth	4760000
+毒品	drugs	6980000
+死亡率	mortality	4450000
 
 
 # verb
@@ -137400,6 +137477,16 @@ C语言	clang	7800000
 进口	import	64200000
 喜欢	like	241000000
 过滤	filter	23800000
+预测	predict	90200000
+还原	reduct	16100000
+否决	veto	4300000
+否认	deny	25800000
+遭遇	encounter	53300000
+遭遇战	encounters	510000
+理解	understand	199000000
+更换	replace	40100000
+再见	bye	23500000
+刺杀	assassinate	2590000
 
 
 # adj
@@ -137429,6 +137516,7 @@ C语言	clang	7800000
 聪明	smart	41600000
 陈词滥调	cliche	170000
 愤世嫉俗	cynical	764000
+玩世不恭	cynicism	1210000
 勇敢	brave	24500000
 对角线	diagonal	728000
 有机	organic	36100000
@@ -137455,20 +137543,103 @@ C语言	clang	7800000
 无限	unlimited	64500000
 无穷	infinite	22500000
 幸运	lucky	25100000
+静态	static	12000000
+动态	dynamic	244000000
+表语	predictive	415000
+两栖	amphibious	1770000
+平衡	equilibrium	62100000
+至关重要	vital	3150000
+不好意思	sorry	26200000
 
 
 # adv
-甚至  even	168000000
-其实	infact	142000000
+甚至	even	168000000
+其实	actually	142000000
 其他	other	685000000
 某些	some	50500000
 或者	orx	262000000
-异或	xor	2620000
+异或	xor	26200
 或许	orfy	43800000
 随时	atanytime	60200000
 也许	maybe	87000000
 确实	indeed	66600000
 故意	intentionally	32800000
+到时候	bythen	17700000
+更加	more	104000000
+更多	moree	335000000
+更快	faster	17900000
+更慢	slower	1790000
+更好	better	90100000
+更坏	worse	9010000
+更高	higher	38100000
+更低	lower	7600000
+更强	stronger	9740000
+更弱	weaker	9740000
+更大	bigger	27400000
+更小	smaller	2740000
+整天	allday	13300000
+整月	allmonth	285000
+整年	allyear	1530000
+整车	allcar	6620000
+事实	fact	64000000
+事实上	infact	6400000
+现在	now	470000000
+
+
+# humanity
+世界语	esperanto	846000
+共和国	rpublic	230000000
+共和	rpublic	5720000
+共产党员	commi	6850000
+共产党	ccp	21000000
+共产主义	communism	3250000
+子爵	viscount	1740000
+圣经	bible	15200000
+圣诞节	xmas	8060000
+圣诞树	xmastree	1130000
+圣诞夜	xmasnight	1340000
+万圣节	halloween	1690000
+感恩节	thanksgiving	1290000
+参议院	senate	1380000
+参议员	senator	2330000
+百科全书	encyclopedia	7860000
+维基百科	wikipedia	786000
+随想曲	caprice	277000
+奏鸣曲	sonata	1870000
+三重奏	trio	1310000
+三部曲	trilogy	3720000
+协奏曲	concerto	3320000
+进行曲	marchm	2860000
+灰姑娘	cinderella	5230000
+三位一体	trinity	2520000
+三分球	trey	974000
+三段论	syllogism	266000
+幕府	shogunate	2220000
+艺妓	geisha	1800000
+动漫	animation	199000000
+封建主义	feudalism	1100000
+救世主	savior	5040000
+地狱	hell	17000000
+二元论	dualism	129000
+二律背反	antinomy	342000
+十四行诗	sonnets	218000
+十字架	cross	6780000
+十字军	crusader	1610000
+顿悟	epiphany	1800000
+无产阶级	proletariat	1770000
+形而上学	metaphysics	982000
+天堂	heaven	49300000
+天使	angel	123000000
+天启	apocalypse	589000
+殖民地	colony	2370000
+殖民	colonial	3300000
+殖民主义	colonialism	608000
+现实主义	realism	2290000
+五角大楼	pentagon	995000
+理想主义	idealism	2140000
+五线谱	stave	603000
+天主教	catholic	4170000
+
 
 # phono-translate
 雅马哈	yamaha	1160000
@@ -137488,7 +137659,6 @@ C语言	clang	7800000
 蓝领	blcollar	1220000
 蓝筹股	blchips	2720000
 蓝调	blues	5110000
-幕府	shogunate	2220000
 茄克	jacket	589000
 劳力士	rolex	841000
 英汉	enzh	3430000
@@ -137497,24 +137667,14 @@ C语言	clang	7800000
 英镑	pound	6050000
 黄牌	ylcard	1910000
 世嘉	sega	1420000
-艺妓	geisha	1800000
 欧元	euro	11700000
-共和国	rpublic	230000000
-共和	rpublic	5720000
 英特尔	intel	12600000
-芯片组	chipset	8340000
 菩萨	buddha	4940000
 菩提	bodhi	8210000
-共产党员	commi	6850000
-共产党	ccp	21000000
-共产主义	communism	3250000
-东道国	hostcountry	478000
-东道主	hostt	1680000
 巫医	witchdoctor	119000
 巫师	witcher	2190000
 巫术	voodoo	1150000
 花旗	citi	5670000
-子爵	viscount	1740000
 耳麦	headset	4020000
 逊尼	sunni	562000
 阿司匹林	aspirin	1750000
@@ -137532,7 +137692,6 @@ C语言	clang	7800000
 桑巴舞	samba	249000
 桑拿	sauna	4750000
 桑拿浴	saunaa	588000
-圣经	bible	15200000
 桑塔纳	santana	7250000
 马克思主义	marxism	4780000
 马列主义	marxleninism	1140000
@@ -137545,23 +137704,9 @@ C语言	clang	7800000
 马赛克	mosaic	3370000
 马铃薯	potato	3730000
 马拉松	marathon	2880000
-圣诞节	xmas	8060000
-圣诞树	xmastree	1130000
-圣诞夜	xmasnight	1340000
-参议院	senate	1380000
-参议员	senator	2330000
 骇客	hacker	491000
-万圣节	halloween	1690000
 奔驰	benz	16500000
 百老汇	broadway	1360000
-百科全书	encyclopedia	7860000
-维基百科	wikipedia	786000
-随想曲	caprice	277000
-奏鸣曲	sonata	1870000
-三重奏	trio	1310000
-三部曲	trilogy	3720000
-协奏曲	concerto	3320000
-进行曲	marchm	2860000
 硅谷	siliconvalley	6170000
 泰坦尼克号	titanic	1480000
 达斡尔族	daur	317000
@@ -137575,7 +137720,6 @@ C语言	clang	7800000
 百事	pepsi	5800000
 百度	baidu	259000000
 三明治	sandwich	3410000
-感恩节	thanksgiving	1290000
 耐克	nike	3830000
 迈拓	maxtor	2360000
 万宝路	marlboro	666000
@@ -137586,42 +137730,40 @@ C语言	clang	7800000
 布尔什维克	bolshevik	228000
 寿司	sushi	38900000
 古兰经	koran	382000
-灰姑娘	cinderella	5230000
-三位一体	trinity	2520000
-三分球	trey	974000
-三段论	syllogism	266000
-尤文图斯	juventus	2330000
 爱斯基摩	eskimo	775000
 爵士乐	jazz	944000
 肥皂剧	soapopera	796000
+尤文图斯	juventus	2330000
 爱立信	ericsson	16900000
 腾讯	tencent	23900000
 塔斯社	tass	123000
 俄塔社	tass	123000
 戴尔	dell	20100000
-救世主	savior	5040000
-地狱	hell	17000000
-动漫	animation	199000000
-封建主义	feudalism	1100000
-二元论	dualism	129000
-二律背反	antinomy	342000
 吉普	jeep	3640000
 吉他	guitar	13200000
 雷达	radar	8850000
 光雷达	ladar	885000
-十四行诗	sonnets	218000
 吉尼斯纪录	guinness	2070000
-十字架	cross	6780000
 索尼	sony	34600000
-十字军	crusader	1610000
 壳牌	shell	1510000
 雪铁龙	citroen	4730000
 嘉年华	carnival	7960000
-无产阶级	proletariat	1770000
 吉普赛	gypsy	639000
 培根	bacon	1680000
 雪茄	cigars	3320000
 雪佛兰	chevrolet	3180000
+玛雅	maya	1160000
+至强	xeon	2150000
+麦克风	micphone	5980000
+天狗	tengu	3260000
+亚运会	asiangames	1610000
+麦当劳	mcdonald	11800000
+理光	ricoh	5000000
+惠普	hpackard	20000000
+豆腐	tofu	35500000
+瓦斯	gas	6680000
+亚裔	asian	1160000
+瑜伽	yoga	27600000
 
 
 # person name
@@ -137723,6 +137865,24 @@ C语言	clang	7800000
 索绪尔	saussure	81100
 勃郎宁	browning	86800
 戴高乐	degaulle	486000
+玛莎	martha	1190000
+玛丽	mary	6880000
+玛丽	marie	6880000
+麦克阿瑟	macarthur	629000
+亚历山大	alexander	2130000
+亚力山大	alexander	62200
+玻尔	bohr	209000
+麦当娜	madonna	3530000
+亚里士多德	aristotle	861000
+丽娜	lina	2540000
+瓦尔	vall	4750000
+瓦特	watt	1220000
+列宁	lenin	3130000
+列维	levi	533000
+瓦格纳	wagner	612000
+敖德萨	odessa	80000
+麦克	mike	7310000
+亚伯拉罕	abraham	441000
 
 
 # place name
@@ -137900,6 +138060,25 @@ C语言	clang	7800000
 老挝	laos	2240000
 都灵	turin	1260000
 土库曼斯坦	turkmenistan	628000
+开罗	cairo	1070000
+柬埔寨	cambodia	4710000
+亚平宁	apennine	657000
+瑞士	switzerland	48500000
+瑞典	sweden	19300000
+亚太	asiapacific	7810000
+亚洲	asia	59000000
+列宁格勒	leningrad	269000
+亚利桑那	arizona	666000
+麦加	mecca	276000
+亚特兰大	atlanta	1820000
+玻利维亚	bolivia	1470000
+珠穆朗玛峰	everest	721000
+平壤	pyongyang	1160000
+亚美尼亚	armenia	1120000
+瓦努阿图	vanuatu	481000
+惠灵顿	wellington	344000
+瑙鲁	nauru	278000
+卡萨布兰卡	casablanca	888000
 
 
 # acronym
@@ -137909,6 +138088,7 @@ C语言	clang	7800000
 英超	epl	11400000
 世锦赛	wchmp	4960000
 欧佩克	opec	1320000
+版权所有	arrd	444000000
 预计到达时间	eta	1320000
 联合国	unn	16100000
 巴解组织	ploo	30800
@@ -137927,6 +138107,12 @@ C语言	clang	7800000
 直流电	dcc	12100000
 不明飞行物	ufo	1210000
 联合国教科文组织	unesco	1930000
+最终用户许可协议	eula	580000
+亚非拉	aala	389000
+液化天然气	lng	1430000
+液化天然气	lpg	1430000
+压缩天然气	cng	1430000
+
 
 # money
 英镑	gbp	6050000
@@ -137939,8 +138125,11 @@ C语言	clang	7800000
 巨蟹座	cancer	3800000
 双子座	gemini	14100000
 双鱼座	pisces	13200000
+天蝎座	scorpio	3330000
+天秤座	libra	19000000
 
 # Game
+恶魔	demon	14900000
 死灵法师	necromancer	1000000
 暗黑破坏神	diablo	1000000
 古墓丽影	tombrider	1000000
