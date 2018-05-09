@@ -137007,6 +137007,18 @@ bs	xxej	895
 琼脂	agar	567000
 玉米	corn	23600000
 紫荆花	bauhinia	601000
+卤素	halogen	1020000
+卤化	halogenate	638000
+紫罗兰	violet	2180000
+颅腔	cranial	250000
+鸬鹚	cormorant	295000
+紫外光	uvlights	657000
+紫外线	uvlight	6690000
+眼镜蛇	cobra	1130000
+凸透镜	convexlens	185000
+雌蕊	pistil	216000
+柴油	diesel	13500000
+
 
 
 # computer
@@ -137110,6 +137122,16 @@ C语言	clang	7800000
 素数	prime	1900000
 平方米	sqmeter	53100000
 平方根	sqrt	425000
+点对点	ptop	2110000
+点击率	ctr	9670000
+上下文	ctx	1760000
+目录	dir	117000000
+上传	upload	195000000
+上线	online	19400000
+桌面	dtop	27600000
+点阵	lattice	963000
+点击	click	519000000
+点数	points	32500000
 
 
 # noun
@@ -137119,6 +137141,7 @@ C语言	clang	7800000
 基本	basic	445000000
 靴子	boot	4890000
 鞋子	shoe	16500000
+革命	revolution	60900000
 牙齿	teeth	10100000
 牙齿	tooth	10100000
 牙膏	toothpaste	4750000
@@ -137384,6 +137407,35 @@ C语言	clang	7800000
 亚健康	subhealth	4760000
 毒品	drugs	6980000
 死亡率	mortality	4450000
+皮革	leather	27200000
+皮肤	skin	58900000
+目击者	witness	1690000
+睫毛	lash	9920000
+目标	goal	133000000
+卡片	card	17400000
+步骤	step	32000000
+步进	stepping	2400000
+叔叔	uncle	10500000
+步兵	infantry	2760000
+步长	stepsize	772000
+步枪	rifle	2330000
+频段	freqband	2520000
+频率	freq	29900000
+频道	channel	343000000
+点心	dessert	7710000
+战争	war	47300000
+战略	strategy	77500000
+战术	tactics	13400000
+战舰	battleships	3040000
+战役	campaign	8030000
+战斗	battle	24600000
+餐巾纸	napkins	875000
+餐巾	napkin	718000
+瞎子	blinds	2910000
+餐厅	canteen	35700000
+餐馆	restaurant	25400000
+战利品	trophy	1420000
+紫色	purple	25600000
 
 
 # verb
@@ -137487,6 +137539,11 @@ C语言	clang	7800000
 更换	replace	40100000
 再见	bye	23500000
 刺杀	assassinate	2590000
+虐待	abuse	13800000
+目击	witnessing	6420000
+止血	stanch	4600000
+点燃	ignite	11100000
+睡觉	sleep	37500000
 
 
 # adj
@@ -137550,6 +137607,17 @@ C语言	clang	7800000
 平衡	equilibrium	62100000
 至关重要	vital	3150000
 不好意思	sorry	26200000
+虚空	void	4560000
+虚拟	virtual	59300000
+虚伪	hypocritical	5850000
+虚假	fake	22500000
+虚幻	unreal	8890000
+瞬时	transit	2210000
+瞬间	instant	50900000
+频繁	freqly	18300000
+占领	occupied	10200000
+贞洁	chaste	1060000
+贞操	chastity	1370000
 
 
 # adv
@@ -137764,6 +137832,17 @@ C语言	clang	7800000
 瓦斯	gas	6680000
 亚裔	asian	1160000
 瑜伽	yoga	27600000
+卡巴斯基	kaspersky	12400000
+卡通片	cartoons	301000
+卡通	cartoon	83400000
+虚无主义	nihilism	330000
+上帝	god	28700000
+卢布	ruble	1030000
+卢比	rupee	1070000
+卡宾枪	carbines	80800
+卡拉OK	karaoke	5630000
+卡西欧	casio	5470000
+肯德基	kfc	5770000
 
 
 # person name
@@ -137883,6 +137962,21 @@ C语言	clang	7800000
 敖德萨	odessa	80000
 麦克	mike	7310000
 亚伯拉罕	abraham	441000
+卡斯特罗	castro	737000
+皮耶罗	piero	1170000
+卡耐基	carnegie	345000
+卡夫卡	kafka	1010000
+卢瑟福	rutherford	202000
+卡恩	kahn	1420000
+卡洛斯	carlos	1700000
+肯尼迪	kennedy	1520000
+卢梭	rousseau	933000
+皮尔斯	pierce	943000
+卡尔维诺	calvino	89300
+卢森堡	luxembourg	1820000
+叔本华	schopenhauer	369000
+卡特尔	cartel	292000
+
 
 
 # place name
@@ -138079,6 +138173,13 @@ C语言	clang	7800000
 惠灵顿	wellington	344000
 瑙鲁	nauru	278000
 卡萨布兰卡	casablanca	888000
+肯塔基	kentucky	432000
+卡塔尔	qatar	1810000
+卢浮宫	louvre	664000
+卢旺达	rwanda	990000
+肯尼亚	kenya	2940000
+旧金山	sanf	3930000
+卡拉奇	karachi	342000
 
 
 # acronym
