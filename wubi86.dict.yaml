@@ -45928,7 +45928,7 @@ AA制	aaps	985000
 灘	catf	6120000
 𤃿	cana	0
 𤁊	canv	0
-洪恩	cane	640000
+洪恩	cane	64000
 𣾟	cane	0
 渵	cani	36400
 江边	canl	4060000
@@ -137018,6 +137018,10 @@ bs	xxej	895
 凸透镜	convexlens	185000
 雌蕊	pistil	216000
 柴油	diesel	13500000
+渗析	dialysis	155000
+淋巴结	lymphnode	1890000
+沥青	asphalt	3980000
+浮肿	puffy	2300000
 
 
 
@@ -137132,6 +137136,9 @@ C语言	clang	7800000
 点阵	lattice	963000
 点击	click	519000000
 点数	points	32500000
+汇编	assembly	11500000
+源码	sourcecode	32700000
+浮点	float	729000
 
 
 # noun
@@ -137436,6 +137443,37 @@ C语言	clang	7800000
 餐馆	restaurant	25400000
 战利品	trophy	1420000
 紫色	purple	25600000
+眼镜	glasses	44100000
+此项	thisitem	13200000
+洪水	flood	11900000
+港湾	harbors	11400000
+港口	ports	15400000
+汇率	fxrate	13000000
+小孩子	kids	19700000
+消防队	firefighters	1920000
+消防车	firefighter	1530000
+消防栓	firehose	420000
+池塘	pond	4510000
+涵洞	culvert	788000
+涵义	meanings	2180000
+游戏厅	gameroom	1300000
+治理	covernance	37900000
+游戏机	gameconsole	10700000
+汉语	chinese	39700000
+汉族	hanpeople	6180000
+潜台词	subtext	1250000
+湖泊	lake	6370000
+湖畔	lakesides	8130000
+淹没	submerge	6150000
+演奏家	performer	2760000
+源泉	fountain	14400000
+水龙头	faucet	8480000
+源头	founthead	11100000
+兴奋剂	stimulants	1830000
+小朋友	lilkids	26100000
+浮云	floatcloud	5030000
+溪水	creek	2720000
+浮尘	dust	771000
 
 
 # verb
@@ -137544,6 +137582,26 @@ C语言	clang	7800000
 止血	stanch	4600000
 点燃	ignite	11100000
 睡觉	sleep	37500000
+盼望	wish	6910000
+眩晕	dizzle	3160000
+汇款	remit	48200000
+灌溉	irrigate	9240000
+灌输	infuse	3230000
+汇报	reports	25200000
+渠道	tunnels	61300000
+涵盖	covers	11100000
+泄漏	leak	7330000
+渗漏	leakage	1750000
+渗透	penetrate	17000000
+治疗	cure	77600000
+治病	cures	4380000
+治愈	cured	5870000
+尖叫	scream	14100000
+汲取	capture	3930000
+浮出	floatout	6230000
+削除	cutoff	143000000
+浮动	float	6290000
+浮起	floatup	1820000
 
 
 # adj
@@ -137618,6 +137676,26 @@ C语言	clang	7800000
 占领	occupied	10200000
 贞洁	chaste	1060000
 贞操	chastity	1370000
+具体	specific	203000000
+满脸	fullface	6260000
+满地	fullground	7120000
+满天	fullsky	5340000
+满目	fulleye	2430000
+满眼	fulleye	2950000
+满足	fulfill	98000000
+泄气	deflated	2440000
+灌篮	dunk	4770000
+满意	satisfied	95200000
+汇总	summarise	33600000
+满仓	fullwarehouse	1540000
+汇集	collections	10900000
+尖锐	acute	6940000
+尖端	cuttingedge	7390000
+尖刻	spiky	1450000
+淫荡	lewd	3390000
+浮夸	exaggerated	757000
+沮丧	dismay	5770000
+浮现	emerge	6650000
 
 
 # adv
@@ -137843,6 +137921,14 @@ C语言	clang	7800000
 卡拉OK	karaoke	5630000
 卡西欧	casio	5470000
 肯德基	kfc	5770000
+汇丰	hsbc	3410000
+港元	hkd	9360000
+港币	hkd	2910000
+港股	hkstock	8930000
+满族	manchu	2110000
+汉英	hanen	4030000
+汉堡	hamburger	3780000
+常春藤	ivyleague	1300000
 
 
 # person name
@@ -137976,6 +138062,8 @@ C语言	clang	7800000
 卢森堡	luxembourg	1820000
 叔本华	schopenhauer	369000
 卡特尔	cartel	292000
+洛克菲勒  rockefeller	1300000
+肖邦	chopin	2010000
 
 
 
@@ -138180,6 +138268,11 @@ C语言	clang	7800000
 肯尼亚	kenya	2940000
 旧金山	sanf	3930000
 卡拉奇	karachi	342000
+港澳	hkmacao	14500000
+津巴布韦	zimbabwe	1650000
+汉城	seoul	2920000
+海参崴	vladivostok	249000
+澳大利亚	australia	26500000
 
 
 # acronym
