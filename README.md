@@ -17,3 +17,16 @@
 [東風破](https://github.com/rime/plum) 安裝口令： `bash rime-install wubi pinyin-simp`
 
 授權條款：見 [LICENSE](LICENSE)
+
+
+## 适于Dvorak键盘布局的五笔字型+英译汉字输入法
+
+YAML配置文件覆盖路径
+
+**Windows**
+
+`C:\Users\username\AppData\Roaming\Rime`
+
+**Unix**
+
+`~/Library/Rime`
